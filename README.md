@@ -1,4 +1,4 @@
-### Hi there, my name is Roma, I'm 21 y.o. 👋
+### Hi there, my name is Sergei, I'm 21 y.o. 👋
 -  :books: I’m computer science student at KNRTU-KAI.
 - 🔭 I’m currently interested in ML/DL, especially in computer vision, reinforcement learning! I really want to find an application of deep learning in the natural sciences!
 - :sparkles: I’m in love with mathematics and data analysis!
