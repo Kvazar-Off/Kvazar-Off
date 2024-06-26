@@ -4,5 +4,5 @@
 - :sparkles: I’m in love with mathematics and data analysis!
 - 👯 I’m looking to collaborate on some DL projects ...
 - 📫 How to reach me: [Telegram](https://t.me/Trifonov_S_A) | [Email](mailto:flipinwhite@gmail.com).
-- :page_facing_up: My [CV](https://drive.google.com/file/d/15FDY03wfIY6OsEuZbElpTjEWk99FWdot/view?usp=sharing).
+- :page_facing_up: My [CV](https://drive.google.com/file/d/1p8Qfi2su7ohUs2_qxBh6DJDFpfA6wzw-/view?usp=sharing).
 
