@@ -65,8 +65,8 @@
 
 ### Patents & Certificates
 * *Database Registration Certificate*: **Massive Open Online Course "Fundamentals of Programming"**
+   №2025622134, issued May 22, 2025.
 
-№2025622134, issued May 22, 2025.
 ---
 
 ## 📫 Contact & Links
