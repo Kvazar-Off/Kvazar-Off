@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sergei Trifonov
 
-🎓 **AI Master's Student** @ [ITMO University](https://ai.itmo.ru/) (AI Talent Hub)  | 22 y.o.
+🎓 **AI Master's Student** [ITMO University](https://ai.itmo.ru/) (AI Talent Hub)  | 22 y.o.
 
 💡 **ML Engineer** specializing in **NLP, LLM, and Audio**. Focused on applying Deep Learning to solve complex real-world problems and advancing natural sciences through AI.
 
@@ -27,24 +27,22 @@
 * 
 **Languages**: Russian (Native), English (B2) , German (B1) 
 
-
-
 ---
 
 ## 💼 Work Experience
 
-**ML Engineer @ [Таттелеком](https://letai.ru/)**
+**ML Engineer [Таттелеком](https://letai.ru/)**
 
 * Developing and optimizing solutions involving **LLMs** and **RAG** architectures.
 * Working on **NLP** and **Audio** processing tasks to improve telecommunication services.
 
-**ML Engineer @ [Academy of Sciences of Tatarstan**](https://ipsan.tatarstan.ru/)
+**ML Engineer [Academy of Sciences of Tatarstan](https://ipsan.tatarstan.ru/)**
 
-* Lead developer for the **TatSoft 2.0** project ([translate.tatar](https://translate.tatar/)).
+* Lead developer for the [**TatSoft 2.0**](https://translate.tatar/) project.
 * Developed, trained, and optimized SOTA machine translation models for low-resource languages.
 * Conducted research and published findings in international journals.
 
-**Junior ML Engineer @ Mandarin Foods** (Apr 2024 – Jun 2024) 
+**ML Engineer @ Mandarin Foods**
 * Trained and tested object detection models.
 * Developed a custom object tracker for video processing.
 
@@ -74,7 +72,7 @@
 
 * 📧 **Email**: [tsa-work@mail.ru](mailto:tsa-work@mail.ru) 
 
-*🌐 [**TenChat**](https://tenchat.ru/trifonoff?utm_source=246e9)
+* 🌐 [**TenChat**](https://tenchat.ru/trifonoff?utm_source=246e9)
 
 
 * 🆔 **ORCID**: [0009-0002-7380-482X](https://www.google.com/search?q=https://orcid.org/0009-0002-7380-482X)
