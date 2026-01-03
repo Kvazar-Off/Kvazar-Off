@@ -8,20 +8,16 @@
 
 ## 🛠️ Skills
 
-* 
-**Programming**: Python (Pandas, NumPy, Scikit-learn, PyTorch, Hugging Face, FastAPI, Streamlit) 
+* **Programming**: Python (Pandas, NumPy, Scikit-learn, PyTorch, Hugging Face, FastAPI, Streamlit) 
 
 
-* 
-**ML/DL**: NLP, LLM, RAG, Audio Processing, Object Detection & Tracking, Time Series 
+* **ML/DL**: NLP, LLM, RAG, Audio Processing, Object Detection & Tracking, Time Series 
 
 
-* 
-**Data & MLOps**: SQL (T-SQL, MS SQL), Git, Linux, Docker, ClearML 
+* **Data & MLOps**: SQL (T-SQL, MS SQL), Git, Linux, Docker, ClearML 
 
 
-* 
-**Mathematics**: Linear Algebra, Calculus, Statistics, Optimization Methods 
+* **Mathematics**: Linear Algebra, Calculus, Statistics, Optimization Methods 
 
 
 * 
@@ -59,11 +55,18 @@
 
 ---
 
-## 📝 Publications
+## 📝 Publications & Patents
+
+### Publications
 
 * **Development of the Russian-Tatar Translation Model Based on NLLB-200** *Published in: 2024 IEEE 3rd International Conference on Problems of Informatics, Electronics and Radio Engineering (PIERE)* *Indexed in: **Scopus** | DOI: [10.1109/PIERE62470.2024.10804955](https://ieeexplore.ieee.org/abstract/document/10804955)
 *Authors: Rinat Gilmullin, Roman Leontiev, Bulat Khakimov, **Sergey Trifonov***
 
+
+### Patents & Certificates
+* *Database Registration Certificate*: **Massive Open Online Course "Fundamentals of Programming"**
+
+№2025622134, issued May 22, 2025.
 ---
 
 ## 📫 Contact & Links
