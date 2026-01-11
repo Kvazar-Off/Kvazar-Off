@@ -20,8 +20,7 @@
 * **Mathematics**: Linear Algebra, Calculus, Statistics, Optimization Methods 
 
 
-* 
-**Languages**: Russian (Native), English (B2) , German (B1) 
+* **Languages**: Russian (Native), English (B2) , German (B1) 
 
 ---
 
