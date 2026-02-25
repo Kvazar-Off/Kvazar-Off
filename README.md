@@ -30,6 +30,8 @@
 
 * Developing and optimizing solutions involving **LLMs** and **RAG** architectures.
 * Working on **NLP** and **Audio** processing tasks to improve telecommunication services.
+* Infrastructure optimization: creation of LLM load testing systems and GPU resource estimation calculators.
+• Development and implementation of a corporate AI training course for employees
 
 **ML Engineer [Academy of Sciences of Tatarstan](https://ipsan.tatarstan.ru/)**
 
@@ -47,10 +49,7 @@
 
 * **Master of AI** | [ITMO University](https://ai.itmo.ru/) (AI Talent Hub) | 2025 – 2027 
 
-
 * **B.S. in Applied Mathematics & Informatics** | KNRTU-KAI | 2021 – 2025 | **GPA: 4.9/5.0** 
-
-
 
 ---
 
@@ -78,4 +77,4 @@
 
 
 * 🆔 **ORCID**: [0009-0002-7380-482X](https://www.google.com/search?q=https://orcid.org/0009-0002-7380-482X)
-* 📄 [**CV**](https://drive.google.com/file/d/1R5LFVRfF28smMDKMq-eXkuA3VumY4S_x/view?usp=drive_link)
+* 📄 [**CV**](https://drive.google.com/file/d/15WuzVMfTrjLDFLWpCbu0hNoUJDWDwz2c/view?usp=sharing) 
