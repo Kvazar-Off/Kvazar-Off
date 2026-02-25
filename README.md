@@ -31,7 +31,7 @@
 * Developing and optimizing solutions involving **LLMs** and **RAG** architectures.
 * Working on **NLP** and **Audio** processing tasks to improve telecommunication services.
 * Infrastructure optimization: creation of LLM load testing systems and GPU resource estimation calculators.
-• Development and implementation of a corporate AI training course for employees
+* Development and implementation of a corporate AI training course for employees
 
 **ML Engineer [Academy of Sciences of Tatarstan](https://ipsan.tatarstan.ru/)**
 
